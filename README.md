@@ -2,4 +2,4 @@
 Веб-приложение для учета продаж билетов в авиакассах с использованием HTML + CSS fontend, JS + PHP backend
 
 
-![window](https://user-images.githubusercontent.com/57669173/197399797-1d7744ec-7099-47a4-9613-f868d53858ca.JPG)
+![196914311-255f239c-72bf-4984-ab32-aa2fd6b8c033](https://user-images.githubusercontent.com/57669173/202889314-a102a1cb-e907-426b-8a30-5713692fa53c.jpg)

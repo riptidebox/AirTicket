@@ -1,6 +1,5 @@
 # Администрирование авиарейсов (веб-приложение)
 Веб-приложение для учета продаж билетов в авиакассах с использованием HTML + CSS (frontend), JavaScript + PHP (backend)
 # Приложение находится в стадии разработки, все файлы предварительные и опубликованы для ознакомления.
-![MainPage](https://user-images.githubusercontent.com/57669173/204954144-9178b4af-6eb3-41b9-96dd-91374ada11dc.jpg)
-
+![11111](https://user-images.githubusercontent.com/57669173/206175877-1e7fab0b-15f0-4dbf-8488-cf33c84db796.jpg)
 

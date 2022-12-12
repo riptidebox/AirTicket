@@ -20,8 +20,8 @@ h1{
 }
 body {
   background: #bdc3c7;  
-  background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7); 
-  background: linear-gradient(to right, #2c3e50, #bdc3c7); 
+  background: -webkit-linear-gradient(в right, #2c3e50, #bdc3c7); 
+  background: linear-gradient(в right, #2c3e50, #bdc3c7); 
 
 }
 th {
@@ -61,7 +61,7 @@ td {
           <div class="container-md mt-2">
             <h1 class="display-4 text-center text-light"
               >РЕЙСЫ ИЗ: <br> <?php echo $dep_city; ?> 
-                 to <?php echo $arr_city; ?> </h1>
+                 в <?php echo $arr_city; ?> </h1>
             <table class="table table-striped table-bordered table-hover">
               <thead>
                 <tr class="text-center">
@@ -116,7 +116,7 @@ td {
                           </div>
                       </div>  
                     </td>                   
-                    <td>$ ".$price."</td>
+                    <td> ₽ ".$price."</td>
                     ";
                   if(isset($_SESSION['userId']) && $row['status'] === '') {   
                     echo " <td>

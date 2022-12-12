@@ -5,7 +5,7 @@
 <?php
 if(isset($_GET['pwd'])) {
     if($_GET['pwd']=='updated') {
-        echo "<script>alert('Your password has been reset!!');</script>";
+        echo "<script>alert('Ваш пароль был сброшен!');</script>";
     }
 }    
 ?>
@@ -198,7 +198,7 @@ background: linear-gradient(to right, #2c3e50, #bdc3c7);
             <a href="register.php">
               <button type="button" class="btn btn-info mt-3">
                 <div style="font-size: 1.5rem;">
-                <i class="fas fa-user-plus text-light"></i> Регистрация
+                <i class="fas fa-user-plus text-light"></i>Регистрация
                 </div>
               </button>
             </a> 

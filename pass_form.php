@@ -45,9 +45,9 @@ body {
   }  
 @media screen and (max-width: 900px){
     body {
-  background: #bdc3c7;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #bdc3c7;  
+  background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  
+  background: linear-gradient(to right, #2c3e50, #bdc3c7);
 
 }  
 }
@@ -105,7 +105,7 @@ body {
 
                 <div class="col-md">
                     <div class="input-group">
-                        <label for="lastname'.$i.'">Фамилия</label>
+                        <label for="lastname'.$i.'"> Фамилия</label>
                         <input type="text" name="lastname[]" id="lastname'.$i.'" class="pl-0 pr-0"
                              required style="width: 100%;">
                     </div>
@@ -115,8 +115,7 @@ body {
                 <div class="col-md">
                     <div class="input-group">
                         <label for="mobile'.$i.'">Номер телефона</label>
-                        <input type="number"  name="mobile[]" min="0"  id="mobile'.$i.'" 
-                            required>
+                        <input type="number"  name="mobile[]" min="0" " required>
                     </div>
                 </div>
                 <div class="col-md">
